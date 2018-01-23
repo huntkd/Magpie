@@ -22,6 +22,8 @@ public class MagpieRunner3 {
 			System.out.println(maggie.getResponse(statement));
 			statement = in.nextLine();
 		}
+
 	}
+
 
 }
